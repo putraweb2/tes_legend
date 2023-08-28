@@ -1,0 +1,112 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max" :"",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "DATA":[
+    {
+      "id":"232",
+      "category":"Motor",
+      "title":"Motor Klasik Honda",
+      "image":"https://monitorfile.xyz/bussid/thumb/402735219_motor_klasik_honda_113_thumb.png",
+      "link_mods":"https://monitorfile.xyz/bussid/mod/402735219_motor_klasik_honda_113_mod.bussidmod",
+      "link_livery":"0"
+    },
+    {
+      "id":"233",
+      "category":"Motor",
+      "title":"Motor Astrea Legenda Klasik",
+      "image":"https://monitorfile.xyz/bussid/thumb/349970301_motor_astrea_legenda_klasik_113_thumb.png",
+      "link_mods":"https://monitorfile.xyz/bussid/mod/349970301_motor_astrea_legenda_klasik_113_mod.bussidmod",
+      "link_livery":"0"
+    },
+    {
+      "id":"234",
+      "category":"Motor",
+      "title":"Motor RX King",
+      "image":"https://monitorfile.xyz/bussid/thumb/1020416312_motor_rx_king_113_thumb.png",
+      "link_mods":"https://monitorfile.xyz/bussid/mod/1020416312_motor_rx_king_113_mod.bussidmod",
+      "link_livery":"0"
+    },
+    {
+      "id":"235",
+      "category":"Motor",
+      "title":"Motor Vespa Super",
+      "image":"https://monitorfile.xyz/bussid/thumb/689040554_motor_vespa_super_113_thumb.png",
+      "link_mods":"https://monitorfile.xyz/bussid/mod/689040554_motor_vespa_super_113_mod.bussidmod",
+      "link_livery":"0"
+    },
+    {
+      "id":"236",
+      "category":"Motor",
+      "title":"Motor Vespa Matic",
+      "image":"https://monitorfile.xyz/bussid/thumb/243468189_motor_vespa_matic_113_thumb.png",
+      "link_mods":"https://monitorfile.xyz/bussid/mod/243468189_motor_vespa_matic_113_mod.bussidmod",
+      "link_livery":"0"
+    },
+    {
+      "id":"237",
+      "category":"Motor",
+      "title":"Motor Supra X",
+      "image":"https://monitorfile.xyz/bussid/thumb/1426869394_motor_supra_x_113_thumb.png",
+      "link_mods":"https://monitorfile.xyz/bussid/mod/1426869394_motor_supra_x_113_mod.bussidmod",
+      "link_livery":"0"
+    },
+    {
+      "id":"238",
+      "category":"Motor",
+      "title":"Motor Jupiter Walang",
+      "image":"https://monitorfile.xyz/bussid/thumb/1759547977_motor_jupiter_walang_113_thumb.png",
+      "link_mods":"https://monitorfile.xyz/bussid/mod/1759547977_motor_jupiter_walang_113_mod.bussidmod",
+      "link_livery":"0"
+    },
+    {
+      "id":"239",
+      "category":"Motor",
+      "title":"Motor Supra X Jual Bakso",
+      "image":"https://monitorfile.xyz/bussid/thumb/186362833_motor_supra_x_jual_bakso_113_thumb.png",
+      "link_mods":"https://monitorfile.xyz/bussid/mod/186362833_motor_supra_x_jual_bakso_113_mod.bussidmod",
+      "link_livery":"0"
+    },
+    {
+      "id":"240",
+      "category":"Motor",
+      "title":"Motor Beat",
+      "image":"https://monitorfile.xyz/bussid/thumb/296270269_motor_beat_113_thumb.png",
+      "link_mods":"https://monitorfile.xyz/bussid/mod/296270269_motor_beat_113_mod.bussidmod",
+      "link_livery":"0"
+    },
+    {
+      "id":"241",
+      "category":"Motor",
+      "title":"Motor Vario",
+      "image":"https://monitorfile.xyz/bussid/thumb/1801199713_motor_vario_113_thumb.png",
+      "link_mods":"https://monitorfile.xyz/bussid/mod/1801199713_motor_vario_113_mod.bussidvehicle",
+      "link_livery":"0"
+    }
+  ]
+}
