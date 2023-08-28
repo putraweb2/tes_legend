@@ -2,16 +2,16 @@
   "Ads": [
     {
       "select_main_ads": "ADMOB",
-      "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-      "main_ads_natives":"",
-      "main_ads_rewards":"",
+      "select_backup_ads":"null",
+      "main_ads_banner": "ca-app-pub-7875992740610401/4921520810",
+      "main_ads_intertitial":"ca-app-pub-7875992740610401/3608439149",
+      "main_ads_natives":"ca-app-pub-7875992740610401/7320168033",
+      "main_ads_rewards":"ca-app-pub-7875992740610401/9982275803",
       "backup_ads_natives":"",
       "backup_ads_banner":"db4d5e8718b97d78",
       "backup_ads_intertitial":"518cd97722c60b52",
       "backup_ads_rewards":"",
-      "open_ads_admob":"",
+      "open_ads_admob":"ca-app-pub-7875992740610401/4694004695",
       "open_ads_alien":"",
       "open_ads_max" :"",
       "switch_banner_natives_ads":"",
@@ -33,7 +33,7 @@
       "category":"Motor",
       "title":"Motor Klasik Honda",
       "image":"https://raw.githubusercontent.com/putraweb2/tes_legend/main/402735219_motor_klasik_honda_113_thumb.png",
-      "link_mods":"https://monitorfile.xyz/bussid/mod/402735219_motor_klasik_honda_113_mod.bussidmod",
+      "link_mods":"https://github.com/putraweb2/tes_legend/raw/main/402735219_motor_klasik_honda_113_mod.bussidmod",
       "link_livery":"0"
     },
     {
@@ -41,7 +41,7 @@
       "category":"Motor",
       "title":"Motor Astrea Legenda Klasik",
       "image":"https://raw.githubusercontent.com/putraweb2/tes_legend/main/349970301_motor_astrea_legenda_klasik_113_thumb.png",
-      "link_mods":"https://monitorfile.xyz/bussid/mod/349970301_motor_astrea_legenda_klasik_113_mod.bussidmod",
+      "link_mods":"https://github.com/putraweb2/tes_legend/raw/main/349970301_motor_astrea_legenda_klasik_113_mod.bussidmod",
       "link_livery":"0"
     },
     {
@@ -49,7 +49,7 @@
       "category":"Motor",
       "title":"Motor RX King",
       "image":"https://raw.githubusercontent.com/putraweb2/tes_legend/main/1020416312_motor_rx_king_113_thumb.png",
-      "link_mods":"https://monitorfile.xyz/bussid/mod/1020416312_motor_rx_king_113_mod.bussidmod",
+      "link_mods":"https://github.com/putraweb2/tes_legend/raw/main/1020416312_motor_rx_king_113_mod.bussidmod",
       "link_livery":"0"
     },
     {
@@ -57,7 +57,7 @@
       "category":"Motor",
       "title":"Motor Vespa Super",
       "image":"https://monitorfile.xyz/bussid/thumb/689040554_motor_vespa_super_113_thumb.png",
-      "link_mods":"https://monitorfile.xyz/bussid/mod/689040554_motor_vespa_super_113_mod.bussidmod",
+      "link_mods":"https://github.com/putraweb2/tes_legend/raw/main/689040554_motor_vespa_super_113_mod.bussidmod",
       "link_livery":"0"
     },
     {
@@ -65,7 +65,7 @@
       "category":"Motor",
       "title":"Motor Vespa Matic",
       "image":"https://monitorfile.xyz/bussid/thumb/243468189_motor_vespa_matic_113_thumb.png",
-      "link_mods":"https://monitorfile.xyz/bussid/mod/243468189_motor_vespa_matic_113_mod.bussidmod",
+      "link_mods":"https://github.com/putraweb2/tes_legend/raw/main/243468189_motor_vespa_matic_113_mod.bussidmod",
       "link_livery":"0"
     },
     {
@@ -73,7 +73,7 @@
       "category":"Motor",
       "title":"Motor Supra X",
       "image":"https://monitorfile.xyz/bussid/thumb/1426869394_motor_supra_x_113_thumb.png",
-      "link_mods":"https://monitorfile.xyz/bussid/mod/1426869394_motor_supra_x_113_mod.bussidmod",
+      "link_mods":"https://github.com/putraweb2/tes_legend/raw/main/1426869394_motor_supra_x_113_mod.bussidmod",
       "link_livery":"0"
     },
     {
@@ -81,7 +81,7 @@
       "category":"Motor",
       "title":"Motor Jupiter Walang",
       "image":"https://monitorfile.xyz/bussid/thumb/1759547977_motor_jupiter_walang_113_thumb.png",
-      "link_mods":"https://monitorfile.xyz/bussid/mod/1759547977_motor_jupiter_walang_113_mod.bussidmod",
+      "link_mods":"https://github.com/putraweb2/tes_legend/raw/main/1759547977_motor_jupiter_walang_113_mod.bussidmod",
       "link_livery":"0"
     },
     {
@@ -89,7 +89,7 @@
       "category":"Motor",
       "title":"Motor Supra X Jual Bakso",
       "image":"https://monitorfile.xyz/bussid/thumb/186362833_motor_supra_x_jual_bakso_113_thumb.png",
-      "link_mods":"https://monitorfile.xyz/bussid/mod/186362833_motor_supra_x_jual_bakso_113_mod.bussidmod",
+      "link_mods":"https://github.com/putraweb2/tes_legend/raw/main/186362833_motor_supra_x_jual_bakso_113_mod.bussidmod",
       "link_livery":"0"
     },
     {
@@ -97,7 +97,7 @@
       "category":"Motor",
       "title":"Motor Beat",
       "image":"https://monitorfile.xyz/bussid/thumb/296270269_motor_beat_113_thumb.png",
-      "link_mods":"https://monitorfile.xyz/bussid/mod/296270269_motor_beat_113_mod.bussidmod",
+      "link_mods":"https://github.com/putraweb2/tes_legend/raw/main/296270269_motor_beat_113_mod.bussidmod",
       "link_livery":"0"
     },
     {
@@ -105,7 +105,7 @@
       "category":"Motor",
       "title":"Motor Vario",
       "image":"https://monitorfile.xyz/bussid/thumb/1801199713_motor_vario_113_thumb.png",
-      "link_mods":"https://monitorfile.xyz/bussid/mod/1801199713_motor_vario_113_mod.bussidvehicle",
+      "link_mods":"https://github.com/putraweb2/tes_legend/raw/main/1801199713_motor_vario_113_mod.bussidvehicle",
       "link_livery":"0"
     }
   ]
